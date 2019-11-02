@@ -1,5 +1,4 @@
-# SolrExp
-Apache Solr &lt;=8.2.0 0day Exploit (Velocity)<br>
+# Apache Solr &lt;=8.2.0 Velocity RCE 0day Exploit<br>
 
 ### Usage 
 单个: python exp.py url cmd<br> 或 Cscan url<br>

@@ -1,6 +1,8 @@
 # Apache Solr <=8.2.0 Velocity Template 0day Exploit
 
 Exp: https://github.com/k8gege/SolrExp
+### 环境
+下载Solr 8.2.0添加core,默认配置即可。7.x版本自带core
 ### 配置
 0x001 批量URL配置Cscan.ini<br>
 [Cscan]<br>

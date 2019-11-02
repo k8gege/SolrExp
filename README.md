@@ -1,4 +1,4 @@
-# Apache Solr &lt;=8.2.0 Velocity RCE 0day Exploit<br>
+# Apache Solr <=8.2.0 Velocity Template 0day Exploit
 
 ### Usage 
 单个: python exp.py url cmd<br> 或 Cscan url<br>
